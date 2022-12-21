@@ -7,14 +7,14 @@ const CONFIG = {
     linkedin: 'yudaa-pratama',
     email: 'yudhaprathamaa@gmail.com',
     github: 'yudaapratama',
-    // instagram: 'more_dev_min',
+    instagram: 'more_dev_min',
   },
-  // projects: [
-  //   {
-  //     name: 'Untilled',
-  //     href: 'https://untilled.web.app'
-  //   }
-  // ],
+  projects: [
+    {
+      name: '',
+      href: ''
+    }
+  ],
   // blog setting
   blog: {
     title: 'my-post',
