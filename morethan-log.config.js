@@ -1,24 +1,24 @@
 const CONFIG = {
   // profile setting
   profile: {
-    name: 'yudha',
-    image: 'https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo5LCJub3NlIjoxMSwibW91dGgiOjIsImV5ZXMiOjksImV5ZWJyb3dzIjowLCJnbGFzc2VzIjowLCJoYWlyIjozNCwiYWNjZXNzb3JpZXMiOjAsImRldGFpbHMiOjAsImJlYXJkIjoxMiwiY2hyaXN0bWFzIjowLCJmbGlwIjowLCJjb2xvciI6InJnYmEoMjU1LCAwLCAwLCAwKSIsInNoYXBlIjoibm9uZSJ9',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    discription: 'web developer',
-    linkedin: 'yudaa-pratama',
-    email: 'yudhaprathamaa@gmail.com',
-    github: 'yudaapratama',
-    // instagram: 'more_dev_min',
+    name: 'morethanmin',
+    image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    discription: 'frontend developer',
+    linkedin: 'morethanmin',
+    email: 'morethanmin.dev@gmail.com',
+    github: 'morethanmin',
+    instagram: 'more_dev_min',
   },
-  // projects: [
-  //   {
-  //     name: 'Untilled',
-  //     href: 'https://untilled.web.app'
-  //   }
-  // ],
+  projects: [
+    {
+      name: 'Untilled',
+      href: 'https://untilled.web.app'
+    }
+  ],
   // blog setting
   blog: {
-    title: 'my-post',
-    description: 'welcome to my-post!',
+    title: 'morethan-log',
+    description: 'welcome to morethan-log!',
     theme: 'auto' // ['light', 'dark', 'auto']
   },
 
