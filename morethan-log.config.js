@@ -7,12 +7,12 @@ const CONFIG = {
     linkedin: 'yudaa-pratama',
     email: 'yudhaprathamaa@gmail.com',
     github: 'yudaapratama',
-    instagram: 'more_dev_min',
+    instagram: 'yudaa_pratama',
   },
   projects: [
     {
-      name: '',
-      href: ''
+      name: 'Inline Keyboard Calendar Bot Telegram',
+      href: 'https://github.com/yudaapratama/inline-keyboard-calendar'
     }
   ],
   // blog setting
@@ -23,7 +23,7 @@ const CONFIG = {
   },
 
   // CONFIG configration
-  link: 'https://morethan-log.vercel.app',
+  link: 'https://my-post-opinion.vercel.app',
   since: 2022, // If leave this empty, current year will be used.
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   postsPerPage: 10,
